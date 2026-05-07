@@ -11,7 +11,8 @@ class test extends Model
         'user_id',
         'siswa',
         'nama',
-        'absen'
+        'absen',
+        'nisn'
     ];
 
     public function user() {
